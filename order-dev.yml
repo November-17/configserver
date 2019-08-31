@@ -1,0 +1,3 @@
+server:
+  redis:
+    port: 6789
